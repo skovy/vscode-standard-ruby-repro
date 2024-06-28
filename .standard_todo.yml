@@ -1,0 +1,12 @@
+# Auto generated files with errors to ignore.
+# Remove from this list as you refactor files.
+---
+ignore:
+- Gemfile:
+  - Layout/EmptyLineAfterMagicComment
+  - Layout/SpaceInsideBlockBraces
+  - Layout/IndentationWidth
+  - Layout/TrailingEmptyLines
+- test.rb:
+  - Layout/ExtraSpacing
+  - Layout/SpaceBeforeFirstArg
